@@ -1,1 +1,1 @@
-# https://konoren.github.io/rsschool-cv
+https://konoren.github.io/rsschool-cv/
